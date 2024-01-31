@@ -36,5 +36,5 @@ Welcome to the Responsive E-Commerce Coffee Shop Website project! This web appli
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/e-commerce-coffee-shop.git
+   git clone [https://github.com/your-username/e-commerce-coffee-shop.git](https://github.com/3bwahab/cofee_Shop_WebSite.git)https://github.com/3bwahab/cofee_Shop_WebSite.git
 
